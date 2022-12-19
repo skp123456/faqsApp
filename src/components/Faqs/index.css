@@ -1,0 +1,29 @@
+.bg-container {
+  background-color: #f1f5f8;
+  min-height: 100vh;
+  border: 1px solid #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.faq-card-container {
+  background-color: #ffffff;
+  max-width: 85%;
+  max-width: 1000px;
+  padding: 16px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-heading {
+  color: #cb8805;
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: 600;
+}
